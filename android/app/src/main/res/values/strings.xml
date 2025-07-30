@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">StaySafe</string>
+<string name="facebook_app_id">225435972087459</string>
+<string name="fb_login_protocol_scheme">fb225435972087459</string>
+</resources>

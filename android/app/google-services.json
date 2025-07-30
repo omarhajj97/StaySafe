@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771206320378",
+    "firebase_url": "https://stay-safe-db41c.firebaseio.com",
+    "project_id": "stay-safe-db41c",
+    "storage_bucket": "stay-safe-db41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771206320378:android:6e4a598487944310fbb943",
+        "android_client_info": {
+          "package_name": "com.example.stay_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771206320378-sl6k9ke0lg4g1uuq3c5dksrohc6560m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stay_safe",
+            "certificate_hash": "71f01b3726b041b6f15bc1a3b24afd152815abda"
+          }
+        },
+        {
+          "client_id": "771206320378-e72kc2atk1mmd6qf9hol0oa4bvcfm5fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxrfWyEbSjqx0wbAgo9bD0Mst3XsyvAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771206320378-e72kc2atk1mmd6qf9hol0oa4bvcfm5fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
